@@ -20,9 +20,13 @@
 
 
 ## Current Projects
-- School Website [Benison School](https://benisonschool.com/) [Live Link]
+- Modern school management website with TC search system, notices, contact forms, and responsive design. [Benison School](https://benisonschool.com/) [Live Link]
 - ## Screenshot
-![Home Page](/assets/ScreenshotHomePage.PNG)
+<p align="center">
+  <img src="/assets/ScreenshotHomePage.PNG" width="60%">
+  <img src="/assets/ResponsiveMobileView.JPG" width="15.4%">
+  <img src="/assets/TCSearchSystem.JPG" width="15%">
+</p>
 - Portfolio Website
 
 ## Connect With Me
