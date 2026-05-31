@@ -17,6 +17,8 @@
 
 ## Current Projects
 - School Website [Benison School](https://benisonschool.com/)
+- ## Screenshot
+![Home Page](/assets/ScreenshotHomePage.PNG)
 - Portfolio Website
 
 ## Connect With Me
