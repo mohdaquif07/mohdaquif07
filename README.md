@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Aquif 👋
 
-<!--
-**mohdaquif07/mohdaquif07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BCA Student
+🌱 Learning JavaScript, PHP & Flutter
+🚀 Building Websites
+🎯 Goal: Become a MERN Stack Developer
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- PHP
+- MySQL
+- Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- School Website
+- Portfolio Website
+
+## Connect With Me
+- Email: aquifansari07@gmail.com
