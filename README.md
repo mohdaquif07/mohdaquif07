@@ -14,9 +14,10 @@
 - PHP
 - MySQL
 - Tailwind CSS
+- Git && Github
 
 ## Current Projects
-- School Website [Benison School](https://benisonschool.com/)
+- School Website [Benison School](https://benisonschool.com/) [Live Link]
 - ## Screenshot
 ![Home Page](/assets/ScreenshotHomePage.PNG)
 - Portfolio Website
